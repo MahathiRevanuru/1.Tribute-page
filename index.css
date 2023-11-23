@@ -1,0 +1,19 @@
+#title{
+    text-align: center;
+    text-shadow: 5px 5px 10px white;
+    font-size: 7vh;
+}
+img{
+    display: inline-block;
+     width: 100%;
+}
+.caption{
+    text-align: center;
+
+}
+.achievements{
+    background-color: yellow;
+}
+small{
+    margin-left: 1350px;
+}
